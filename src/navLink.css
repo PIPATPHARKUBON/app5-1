@@ -1,0 +1,18 @@
+.nav{
+    background-color: rgb(255, 166, 0);
+    padding: 7px;
+    text-align: center;
+}
+
+.menu{
+    color: aqua;
+    text-decoration: none;
+    padding: 2px 5px;
+}
+
+.active_menu{
+    color: brown;
+    background-color: rgb(16, 136, 184);
+    text-decoration: none;
+    padding: 2px 5px;
+}
